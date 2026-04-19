@@ -28,6 +28,6 @@ Aşağıdaki komutları termux'unuza yada linuxdaki terminalinize sırasıyla ya
 ```bash
 pkg update && pkg upgrade -y
 pkg install python python-pip git -y
-git clone https://github.com/zarvox0/zarvoxddos.git
+git clone https://github.com/zarvox0/zarvoxdd0s.git
 cd zarvoxddos
-python zarvoxddos.py
+python zarvoxdd0s.py

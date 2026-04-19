@@ -29,5 +29,5 @@ Aşağıdaki komutları termux'unuza yada linuxdaki terminalinize sırasıyla ya
 pkg update && pkg upgrade -y
 pkg install python python-pip git -y
 git clone https://github.com/zarvox0/zarvoxdd0s.git
-cd zarvoxddos
+cd zarvoxdd0s
 python zarvoxdd0s.py
